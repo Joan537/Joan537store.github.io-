@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-4 text-center">
                 <label id="product1">Samsung Galaxy A05</label>
-                <img src="5a624e892b83936f2ea9f37272c391ab.jpg" alt="Samsung Galaxy A05" style="width:400px;height:500px;" class="img-thumbnail" /><br>
+                <img src="5a624e892b83936f2ea9f37272c391ab.jpg_720x720q80.jpg " alt="Samsung Galaxy A05" style="width:400px;height:500px;" class="img-thumbnail" /><br>
                 <label for="product1" id="price1">19000.00</label>
                 <input type="number" class="form-control" id="qty1" placeholder="Enter quantity" /><br>
             </div>
@@ -31,7 +31,7 @@
             </div>
             <div class="col-4 text-center">
                 <label id="product3">Oppo F11</label>
-                <img src="f4ece84c5b6dfa366c57b72a02e581.jpg" alt="Oppo F11" style="width:400px;height:500px;" class="img-thumbnail" /><br>
+                <img src="f4ece84c5b6dfa366c57b72a02e581.jpg " alt="Oppo F11" style="width:400px;height:500px;" class="img-thumbnail" /><br>
                 <label for="product3" id="price3">11000.00</label>
                 <input type="number" class="form-control" id="qty3" placeholder="Enter quantity" /><br>
             </div>
